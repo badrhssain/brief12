@@ -40,12 +40,12 @@
       <th scope="col">#</th>
       <th scope="col">First</th>
       <th scope="col">Last</th>
-      <th scope="col">Handle</th>
-      <th scope="col">taf</th>
-      <th scope="col">tafa</th>
-      <th scope="col">tafo</th>
-      <th scope="col">foto</th>
-      <th scope="col">akchen</th>
+      <th scope="col">date de naissance</th>
+      <th scope="col">departement</th>
+      <th scope="col">salaire</th>
+      <th scope="col">fonction</th>
+      <th scope="col">photo</th>
+      <th scope="col">action</th>
     </tr>
   </thead>
   <tbody>
